@@ -46,4 +46,3 @@ with open('input.txt', 'r') as infile:
 
 print(f"Part 1: {p1_counter}")     # 1089
 print(f"Part 2: {p2_counter}")     # 6530
-
