@@ -16,13 +16,6 @@ Each day is in its own folder:
 
 Each `main.py` prints the answers for both Part 1 and Part 2.
 
-## ▶️ Running a solution
-
-From the repo root:
-
-    python day01/main.py
-    python day02/main.py
-
 ## ⭐ Progress
 
 | Day | Part 1 | Part 2 |
